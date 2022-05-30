@@ -1,5 +1,5 @@
-# Hey, we are Lime Friends.
+# Hey, we are Slime Friends.
 
 Welcome to our GitHub organization profile.
 
-[limefriends.io](https://limefriends.io)
+[slimefriends.io](https://slimefriends.io)
